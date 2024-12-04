@@ -4,7 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>hitesh's and harry's Notion website</h1>
+      <h1>
+        harry's Notion website</h1>
     </div>
   );
 }
